@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ldapjdk:ldapjdk:20000524">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ldapjdk/ldapjdk/20000524/ldapjdk-20000524.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ldapjdk/ldapjdk/20000524/ldapjdk-20000524-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ldapjdk/ldapjdk/20000524/ldapjdk-20000524-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

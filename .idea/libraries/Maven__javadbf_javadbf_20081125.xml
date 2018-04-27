@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: javadbf:javadbf:20081125">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/javadbf/javadbf/20081125/javadbf-20081125.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/javadbf/javadbf/20081125/javadbf-20081125-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/javadbf/javadbf/20081125/javadbf-20081125-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

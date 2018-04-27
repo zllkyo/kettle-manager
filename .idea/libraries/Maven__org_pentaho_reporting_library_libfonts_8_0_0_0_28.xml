@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.pentaho.reporting.library:libfonts:8.0.0.0-28">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/pentaho/reporting/library/libfonts/8.0.0.0-28/libfonts-8.0.0.0-28.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/pentaho/reporting/library/libfonts/8.0.0.0-28/libfonts-8.0.0.0-28-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/pentaho/reporting/library/libfonts/8.0.0.0-28/libfonts-8.0.0.0-28-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
